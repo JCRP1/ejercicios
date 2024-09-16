@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ejercicio#23": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
